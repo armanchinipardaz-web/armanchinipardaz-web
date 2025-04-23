@@ -32,7 +32,7 @@
 
 ![Image](https://github.com/user-attachments/assets/f0bedc71-83f2-48e1-8c77-57bbe1a1cce0)
 
-- [Demo Project](https://armanchinipardaz-web.github.io/web24-sess8/)
+- [Demo Project]( https://armanchinipardaz-web.github.io/armanchinipardaz-web/)
 
 - Developed by armanchinipardaz
 
