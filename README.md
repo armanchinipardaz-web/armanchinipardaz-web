@@ -44,4 +44,4 @@
 
 - Role - Frontend
 
-- How to reach me : with my [instagram](https://www.instagram.com/arman_chinip_dev?igsh=bmplMzU3bHQ1Nmd5) and [linkedin](https://www.linkedin.com/in/arman-chinipardaz-038526361/)
+- How to reach me : with my [instagram](https://www.instagram.com/arman_chinipardaz_dev?igsh=aW96eGt1cjY0NHA1) and [linkedin](https://www.linkedin.com/in/arman-chinipardaz-038526361/)
