@@ -30,6 +30,8 @@
 
 ![Image](https://github.com/user-attachments/assets/335a7fae-6b3a-4968-8d54-f124a0a79daf)
 
+![Image](https://github.com/user-attachments/assets/6f001321-f2e4-4de8-8958-992a36d01918)
+
 ![Image](https://github.com/user-attachments/assets/f0bedc71-83f2-48e1-8c77-57bbe1a1cce0)
 
 - [Demo Project](https://armanchinipardaz-web.github.io/armanchinipardaz-web/)
